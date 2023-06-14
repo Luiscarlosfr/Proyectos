@@ -1,9 +1,13 @@
 .profile-description {font-size: large;
-    text-justify: distribute;
+    text-align: justify;
+
        
 }
-.Image-profile { height: 250px;
+.Image-profile {display: block; 
+    height: 250px;
 width: 350px;
-
+border-radius: 25px;
+margin: auto;
 }
 .skills {font-size: large;}
+.Nombre {text-align: center;}
